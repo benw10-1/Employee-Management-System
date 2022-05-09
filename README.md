@@ -6,11 +6,15 @@
 
 This miniproject allows for a user to track their employees' pay and position using MYSQL and Inquirer. All the user has to do is select options given to them and they can add to the database, remove items, update items, all from a command line prompt. It makes it very intuitive to use as it directly asks you what you want to do. You also don't have to know the names of the employees because it gives you the option between employees when you are removing or updating a record.
 
+## Demo
+
+[Link to demo](https://youtu.be/iqV2HitRA5M)
+
 ## Installation
 
 To install this application, open `terminal` and clone the repository by running:
 
-    git clone https://github.com/benw10-1/bugTracker.git
+    git clone https://github.com/benw10-1/Employee-Management-System.git
     cd bugTracker | npm install
 
 ## Usage
