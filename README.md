@@ -1,4 +1,4 @@
-# BUG TRACKER
+# Employee Management
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -28,5 +28,3 @@ Once the application is installed, the user must make necessary changes to the .
 This application is covered under MIT License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-©2022 Bug Tracker
