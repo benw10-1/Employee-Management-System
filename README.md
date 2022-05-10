@@ -15,7 +15,8 @@ This miniproject allows for a user to track their employees' pay and position us
 To install this application, open `terminal` and clone the repository by running:
 
     git clone https://github.com/benw10-1/Employee-Management-System.git
-    cd bugTracker | npm install
+    cd ecommercebackend 
+    npm install
 
 ## Usage
 
